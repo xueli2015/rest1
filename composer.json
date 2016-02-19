@@ -1,0 +1,7 @@
+{
+    "require": {
+        "peej/tonic": "3.*",
+        "firebase/php-jwt": "^3.0",
+        "owasp/phprbac": "^2.0"
+    }
+}

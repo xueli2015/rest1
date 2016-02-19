@@ -1,0 +1,8 @@
+{
+	"role":[
+		{"system":{ "name":"System Administrator", "description":""}},
+		{"sales":{ "name":"Sales", "description":""}},
+		{"sales amazon":{ "name":"Sales in Amazon", "description":"" }},
+		{"sales ebay":{ "name":"Sales in Ebay", "description":"" }}
+	]
+}

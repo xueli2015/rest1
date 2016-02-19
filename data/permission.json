@@ -1,0 +1,6 @@
+{
+	"permission":[
+		{"name":"OrderFullList", "description":"Can list all orders from all channels.", "param":""},
+		{"name":"OrderListEbay", "description":"Can List all orders from ebay. Params are channels id.", "param":""}
+	]
+}

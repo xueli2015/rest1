@@ -1,0 +1,6 @@
+{
+	"menu":[
+		{"name":"Order", "path":"order", "description":"Visit Order Page"},
+		{"name":"Product", "path":"product", "description":"Visit Product Page"}
+	]
+}
